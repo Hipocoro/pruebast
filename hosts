@@ -1,0 +1,5 @@
+[webserver]
+192.168.100.33 ansible_user=<usuario> ansible_sudo_pass=<pass>
+
+[database]
+192.168.100.36 ansible_user=<usuario> ansible_sudo_pass=<pass>
